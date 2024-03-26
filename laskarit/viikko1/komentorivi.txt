@@ -8,3 +8,5 @@ C:\USERS\MIKKO\AVOIN_KURSSI_FULL_STACK
 └───ot_viikko1
     ├───stuff
     └───tiedostoja
+
+edit
