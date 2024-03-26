@@ -1,0 +1,105 @@
+git log --stat | cat
+commit a0f16538e7e16a548f1e19c7bb36b1da96597bb8
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 22:57:08 2024 +0200
+
+    kommitti
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a05e02b79880faf2be3fe1c91a4c511f5765f749
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 22:47:13 2024 +0200
+
+    uusi kommitus
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 25e08323f69fc92c7e671a82d544ec99093969c0
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 21:19:36 2024 +0200
+
+    kolmas.txt
+
+ eka.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 516b6b61db368cdd470bf7c7170383d328d4fdfa
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 21:16:02 2024 +0200
+
+    tiedoston poisto
+
+ toinen.txt | 16 ----------------
+ 1 file changed, 16 deletions(-)
+
+commit 6c0c5b3fd3302fcc47f7732820b82cf6fb760550
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 21:15:12 2024 +0200
+
+    nimenmuutos
+
+ tiedosto.txt => eka.txt | 0
+ joku.txt                | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8fa196bacf1fd82bd232944dc174e6d41133ace6
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 20:32:29 2024 +0200
+
+    kaikki taas
+
+ toinen.txt | 17 ++++++++++++++++-
+ 1 file changed, 16 insertions(+), 1 deletion(-)
+
+commit ee65c140c4b78b04c8458ea11a8e25c7efccdc9a
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 20:22:24 2024 +0200
+
+    kaikki ccommittiin
+
+ stuff/jokutied.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3db1bd150bee0e828ffeaf9c93252434403890a8
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 20:19:02 2024 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit d195bcb3e1ddff94eb38474ce45695fbaa9fc90b
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 20:12:30 2024 +0200
+
+    uusi
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ab5ef7f6ff35e2ef83fd3ea0d6c32895a7c10c70
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 19:29:40 2024 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit fbbb60a80358c02ce83e039c245261a1b8c4dab5
+Author: Mikko Uotinen <mikko.uotinen.j@gmail.com>
+Date:   Sun Mar 24 18:34:50 2024 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

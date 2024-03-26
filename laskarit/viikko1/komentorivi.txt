@@ -1,0 +1,10 @@
+C:\Users\mikko> tree avoin_kurssi_full_stack
+Folder PATH listing
+Volume serial number is A8D5-5CB8
+C:\USERS\MIKKO\AVOIN_KURSSI_FULL_STACK
+├───ot-harjoitustyo
+│   └───laskarit
+│       └───viikko1
+└───ot_viikko1
+    ├───stuff
+    └───tiedostoja
